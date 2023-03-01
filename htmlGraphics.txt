@@ -1,4 +1,3 @@
 HTML Graphics
 - html canvas
-- html svg
 - html
