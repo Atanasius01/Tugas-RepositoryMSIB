@@ -1,0 +1,7 @@
+Macam-macam tag html :
+- <div>
+- <td>
+- <tr>
+- <img>
+- <a>
+- <br>
