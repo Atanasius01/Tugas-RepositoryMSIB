@@ -2,3 +2,4 @@ Definisi HTML
 - HTML (HyperText Markup Language) adalah suatu bahasa yang menggunakan tanda-tanda tertentu (tag) untuk menyatakan 
   kode-kode yang harus ditafsirkan oleh browser agar halaman tersebut dapat ditampilkan secara benar.
   Pada html kita dapat menghubungkan file css dengan membuat tag <link> dan memasukkan folder/nama file css.
+  Dan juga dapat memasukkan gambar, vidio dan suara dengan menggunakan tag tertentu.
