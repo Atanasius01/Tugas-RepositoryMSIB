@@ -1,7 +1,8 @@
 Macam-macam tag html :
 - <div>
+- <table>
 - <td>
-- <tr>
 - <img>
 - <a>
 - <br>
+- <p>
