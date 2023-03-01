@@ -1,0 +1,3 @@
+HTML MEDIA
+- html drag/drop
+- html web storage
