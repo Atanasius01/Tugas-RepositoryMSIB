@@ -1,3 +1,2 @@
 - css home
 - css syntax
-- css selectors
